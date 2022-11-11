@@ -1,0 +1,36 @@
+﻿@model DevShop.Models.User
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+
+<div class="login-modal">
+    <section class="login-section">
+
+        <a class="btn-coloseModal" asp-area="" asp-controller="Home" asp-action="Index">X</a>
+        <div class="login-container">
+            <div class="user signinBX">
+                <div class="imgBx">
+                    <img src="https://cdn.dribbble.com/users/846207/screenshots/4787301/fingerprint.gif"
+                         width="440px"
+                         height="100%"
+                         alt="" />
+                </div>
+                <div class="formBx">
+                    <form asp-action="Login">
+                        <h2>Sign In</h2>
+                        <input asp-for="Username" type="text" placeholder="Username" class="form-contrl" />
+                        <input asp-for="Password" type="password" placeholder="Password" class="form-contrl" />
+                        <input type="submit" value="Login" />
+                        <p class="signup">
+                            Don't have an account?
+                            <a asp-area="" asp-controller="Users" asp-action="SignUp" onclick="toggleForm();">Sign up.</a>
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

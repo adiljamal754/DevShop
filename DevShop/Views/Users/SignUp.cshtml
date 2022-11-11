@@ -1,0 +1,41 @@
+﻿@model User
+
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+
+<div class="login-modal">
+    <section class="login-section">
+        <a class="btn-coloseModal" asp-area="" asp-controller="Home" asp-action="Index">X</a>
+        <div class="login-container">
+
+            <div class="user singupBx">
+                <div class="formBx">
+                    <form asp-action="SignUp">
+                        <h2>Create an account</h2>
+                        <input asp-for="Username" type="text" placeholder="Username" />
+                        <input asp-for="Email" type="email" placeholder="Email Address" />
+                        <input asp-for="Contact" type="tel" placeholder="+258 8* *** ***" />
+                        <input asp-for="Password" type="password" placeholder="Create Password" />
+                        <input asp-for="PasswordConfirm" type="password" placeholder="Confirm Password" />
+                        <input type="submit" value="SignUp" />
+                        <p class="signup">
+                            Already have an account?
+                            <a href="#" onclick="toggleForm();">Sign in.</a>
+                        </p>
+                    </form>
+                </div>
+                <div class="imgBx">
+                    <img src="https://cdn.dribbble.com/users/3386713/screenshots/6826697/s8_gif_1.gif"
+                         width="440px"
+                         height="100%"
+                         alt="" />
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+

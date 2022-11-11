@@ -2767,19 +2767,19 @@ section .login-container.active .singupBx {
 
 
 section.login-section .login-container .singupBx .formBx {
-    left: 100%;
+    left: 0;
 }
 
 section.login-section .login-container.active .singupBx .formBx {
-    left: 0;
+    left: 100%;
 }
 
 section.login-section .login-container .singupBx .imgBx {
-    left: -100%;
+    left: 0;
 }
 
 section.login-section .login-container.active .singupBx .imgBx {
-    left: 0;
+    left: -100%;
 }
 
 

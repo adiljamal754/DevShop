@@ -31,16 +31,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/User/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+[C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/User/SignUp.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/User/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3LmNzaHRtbA==
+[C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/Users/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/_ViewImports.cshtml]

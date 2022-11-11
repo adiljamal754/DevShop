@@ -51,81 +51,6 @@
 
 </div>
 
-
-@*<div class="fade">
-    <div class="login-modal hide">
-
-        <section class="login-section">
-
-            <button class="btn-coloseModal">
-                X
-            </button>
-            <div class="login-container">
-
-
-                <div class="user signinBX">
-                    <div class="imgBx">
-                        <img src="https://cdn.dribbble.com/users/846207/screenshots/4787301/fingerprint.gif"
-                             width="440px"
-                             height="100%"
-                             alt="" />
-                    </div>
-                    <div class="formBx">
-                        <form>
-                            <h2>Sign In</h2>
-                            <input type="text" placeholder="Username" />
-                            <input type="password" placeholder="Password" />
-                            <input type="submit" value="Login" />
-                            <p class="signup">
-                                Don't have an account?
-                                <a href="#" onclick="toggleForm();">Sign up.</a>
-                            </p>
-                        </form>
-                    </div>
-                </div>
-
-                <div class="user singupBx">
-                    <div class="formBx">
-                        <form>
-                            <h2>Create an account</h2>
-                            <input type="text" placeholder="Username"/>
-                            <input type="email" placeholder="Email Address" />
-                            <input type="tel" placeholder="+258 8* *** ***" />
-                            <input type="password" placeholder="Create Password" />
-                            <input type="password" placeholder="Confirm Password" />
-                            <input type="submit" value="SignUp" />
-                            <p class="signup">
-                                Already have an account?
-                                <a href="#" onclick="toggleForm();">Sign in.</a>
-                            </p>
-                        </form>
-                    </div>
-                    <div class="imgBx">
-                        <img src="https://cdn.dribbble.com/users/3386713/screenshots/6826697/s8_gif_1.gif"
-                             width="440px"
-                             height="100%"
-                             alt="" />
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-    *@
-
-    
-
 <!--
     - NOTIFICATION TOAST
   -->
@@ -255,9 +180,10 @@
                       <ion-icon name="person-outline"></ion-icon>
                 </button>
                 -->
-               
-                <a class="action-btn btn-openModal" asp-area="" asp-controller="Users" asp-action="View"><ion-icon name="person-outline"></ion-icon></a>
-                      
+                <a asp-area="" asp-controller="Users" asp-action="Login" class="action-btn">
+                    <ion-icon name="person-outline"></ion-icon>
+                </a>
+                   
                 <button class="action-btn">
                     <ion-icon name="heart-outline"></ion-icon>
                     <span class="count">0</span>
@@ -539,7 +465,7 @@
 
 
         <!-- CART -->
-        <div class="cart">
+        @*<div class="cart">
             <h2 class="cart-title">Your cart</h2>
 
             <!-- Content -->
@@ -560,7 +486,7 @@
 
 
         </div>
-
+        *@
     </nav>
 
     <div class="mobile-bottom-navigation">
