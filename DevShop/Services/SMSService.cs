@@ -8,13 +8,13 @@ namespace DevShop.Services
         public void sendSMS(string tel,string username)
         {
             string accountSid = Environment.GetEnvironmentVariable("AC6a5a1fef51e6ff7e860443030e632359");
-            string authToken = Environment.GetEnvironmentVariable("6cbb1cdd80a582e07485ea41ba4a4c6b");
+            string authToken = Environment.GetEnvironmentVariable("ce18033ec283b03ad5e44783f5880780");
 
             string msg = "";
 
 
-            TwilioClient.Init("AC6a5a1fef51e6ff7e860443030e632359", "6cbb1cdd80a582e07485ea41ba4a4c6b");
-            if(DateTime.Now.Hour < 12)
+            TwilioClient.Init("AC6a5a1fef51e6ff7e860443030e632359", "ce18033ec283b03ad5e44783f5880780");
+            if (DateTime.Now.Hour < 12)
             {
                 msg = "Bom Dia";
             } else if(DateTime.Now.Hour > 12)

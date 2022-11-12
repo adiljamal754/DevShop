@@ -8,7 +8,7 @@
 
 <div class="login-modal">
     <section class="login-section">
-        <a class="btn-coloseModal" asp-area="" asp-controller="Home" asp-action="Index">X</a>
+        <a asp-area="" asp-controller="Home" asp-action="Index" class="btn-coloseModal">  X</a>
         <div class="login-container">
 
             <div class="user singupBx">
@@ -23,7 +23,7 @@
                         <input type="submit" value="SignUp" />
                         <p class="signup">
                             Already have an account?
-                            <a href="#" onclick="toggleForm();">Sign in.</a>
+                            <a asp-area="" asp-controller="Users" asp-action="Signin">Sign in.</a>
                         </p>
                     </form>
                 </div>

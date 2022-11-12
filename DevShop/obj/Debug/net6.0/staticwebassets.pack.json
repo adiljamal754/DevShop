@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DevShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DevShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\css\\style-prefix.css",
+      "PackagePath": "staticwebassets\\css\\style-prefix.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\cta-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\cta-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\electronics-banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\electronics-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\electronics-banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\electronics-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\coat.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\coat.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\cosmetics.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\cosmetics.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\dress.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\dress.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\glasses.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\glasses.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\hat.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\hat.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\jacket.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\jacket.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\jewelry.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\jewelry.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\perfume.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\perfume.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\quotes.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\quotes.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\shoes.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\shoes.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\shorts.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\shorts.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\tee.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\tee.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\icons\\watch.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\watch.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\logo\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\logo\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\mens-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\mens-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\newsletter.png",
+      "PackagePath": "staticwebassets\\images\\newsletter.png"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\payment.png",
+      "PackagePath": "staticwebassets\\images\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\belt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\belt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\clothes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\clothes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\clothes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\clothes-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\clothes-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jacket-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jacket-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jacket-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jacket-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jacket-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jacket-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jacket-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jewellery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jewellery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\jewellery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\jewellery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\party-wear-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\party-wear-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\party-wear-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\party-wear-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\perfume.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\perfume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shampoo.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shampoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shirt-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shirt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shirt-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shirt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-1_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-1_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-2_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-2_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shoe-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoe-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shorts-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shorts-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\shorts-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shorts-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sports-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sports-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sports-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sports-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sports-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\sports-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\sports-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\watch-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\watch-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\watch-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\products\\watch-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\watch-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\images\\womens-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\womens-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\adila\\OneDrive\\Ambiente de Trabalho\\DevShop\\DevShop\\DevShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DevShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DevShop.props",
+      "PackagePath": "build\\DevShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DevShop.props",
+      "PackagePath": "buildMultiTargeting\\DevShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DevShop.props",
+      "PackagePath": "buildTransitive\\DevShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

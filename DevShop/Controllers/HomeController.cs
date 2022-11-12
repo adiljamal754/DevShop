@@ -59,16 +59,6 @@ namespace DevShop.Controllers
             }
         }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult SignUp(User user)
-        {
-          _userService.AddUser(user);
-          _SMSService.sendSMS(user.Contact, user.Username);
-            return RedirectToAction(nameof(Index));
-            // View();
-        }
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

@@ -2374,7 +2374,7 @@
             <div class="showcase">
                 <div class="showcase-banner">
 
-                    <img class="image" src="@item.picUrl" width="300" class="product-img default">
+                    <img src="@item.picUrl" width="300" class="product-img default image">
                     <img src="@item.picUrl" alt="Mens Winter Leathers Jackets" class="product-img hover" width="300">
 
                     <div class="showcase-actions">
@@ -2418,7 +2418,7 @@
 
                     <div class="price-box">
                         <p class="price">$@item.Price</p>
-                        <del>$75.00</del>
+                        <del>$@(item.Price + (item.Price * 0.2))</del>
                     </div>
 
                 </div>
