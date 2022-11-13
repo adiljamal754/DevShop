@@ -592,6 +592,7 @@ C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\n
 C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\DevShop.pdb
 C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\DevShop.genruntimeconfig.cache
 C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\ref\DevShop.dll
+<<<<<<< HEAD
 C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\bin\Debug\net6.0\appsettings.json
 C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\bin\Debug\net6.0\DevShop.staticwebassets.runtime.json
@@ -876,3 +877,10 @@ C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\obj\Debug
 C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\obj\Debug\net6.0\DevShop.pdb
 C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\obj\Debug\net6.0\DevShop.genruntimeconfig.cache
 C:\Users\USER\Documents\Enoque Tembe\Code Things\git\DevShop-1\DevShop\obj\Debug\net6.0\ref\DevShop.dll
+=======
+C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\staticwebassets\msbuild.DevShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\staticwebassets\msbuild.build.DevShop.props
+C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DevShop.props
+C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DevShop.props
+C:\Users\adila\OneDrive\Ambiente de Trabalho\DevShop\DevShop\DevShop\obj\Debug\net6.0\staticwebassets.pack.json
+>>>>>>> 5855ffe9964460360d0781dac5df1848e8470cef
