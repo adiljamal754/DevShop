@@ -3269,14 +3269,8 @@ section.login-section {
     border-radius: 50%;
     background: red;
     color: #fff;
-<<<<<<< HEAD
-
     position: absolute;
     top: 1rem;
     right: 0.8rem;
-    
     cursor: pointer;
 }
-=======
-}
->>>>>>> 5855ffe9964460360d0781dac5df1848e8470cef
