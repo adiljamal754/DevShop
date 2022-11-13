@@ -3161,14 +3161,13 @@ section.login-section {
 .cart {
     position: fixed;
     top: 0;
-    right: 0;
-    right: 10px;
+    right: -100%;
     width: 360px;
     height: 100vh;
     overflow-x: hidden;
     padding: 20px;
-    background-color: lightpink;
-    box-shadow: -2px solid 4px hsl(0 4% 15% /10%);
+    background-color: #fff;
+    box-shadow: -2px  4px hsl(0 4% 15% /10%);
     border: 1px solid black;
     transition: 1.5s;
     z-index: 5;
@@ -3181,7 +3180,7 @@ section.login-section {
 
 .cart-title {
     text-align: center;
-    font-style: 1.5rem;
+    font-size: 1.5rem;
     font-weight: 600;
     margin-top: 2rem;
 }
@@ -3207,7 +3206,7 @@ section.login-section {
 }
 
 .cart-product-title {
-    font-style: 1rem;
+    font-size: 1rem;
     text-transform: uppercase;
 }
 
@@ -3224,8 +3223,10 @@ section.login-section {
 }
 
 .cart-remove {
-    font-style: 24px;
-    color: var(--main-color);
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #fd4646;
     cursor: pointer;
 }
 
@@ -3250,24 +3251,17 @@ section.login-section {
     margin: 1.5rem auto 0 auto;
     padding: 12px 20px;
     border: none;
-    background-color: var(--sec-color);
+    background-color: var(--salmon-pink);
     font-size: 1rem;
     font-weight: 500;
     cursor: pointer;
 }
 
     .btn-buy:hover {
-        background-color: var(--text-color);
+        background-color: palevioletred;
     }
 
-#cart-close {
-    position: absolute;
-    top: 1rem;
-    right: 0.8rem;
-    font-style: 2rem;
-    color: var(--text-color);
-    cursor: pointer;
-}
+
 
 .bx {
     width: 40px;
@@ -3275,4 +3269,14 @@ section.login-section {
     border-radius: 50%;
     background: red;
     color: #fff;
+<<<<<<< HEAD
+
+    position: absolute;
+    top: 1rem;
+    right: 0.8rem;
+    
+    cursor: pointer;
 }
+=======
+}
+>>>>>>> 5855ffe9964460360d0781dac5df1848e8470cef
