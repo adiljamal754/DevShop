@@ -189,7 +189,7 @@
                     <span class="count">0</span>
                 </button>
 
-                <button class="action-btn">
+                <button class="action-btn btn-cart">
                     <ion-icon name="bag-handle-outline"></ion-icon>
                     <span class="count">0</span>
                 </button>
@@ -465,7 +465,7 @@
 
 
         <!-- CART -->
-        @*<div class="cart">
+        <div class="cart">
             <h2 class="cart-title">Your cart</h2>
 
             <!-- Content -->
@@ -476,7 +476,7 @@
             <!-- Total -->
             <div class="total">
                 <div class="total-title">Total</div>
-                <div class="total-price">$0</div>
+                <div class="total-price">0</div>
             </div>
             <!-- Buy Button -->
             <button type="button" class="btn-buy">Buy Now</button>
@@ -486,7 +486,7 @@
 
 
         </div>
-        *@
+        
     </nav>
 
     <div class="mobile-bottom-navigation">
@@ -2372,6 +2372,11 @@
            @foreach (var item in Model)
         {
             <div class="showcase">
+
+                                <button class="btn-action btn-add">
+
+                                    <ion-icon name="bag-add-outline"></ion-icon>
+                                </button>
                 <div class="showcase-banner">
 
                     <img class="image" src="@item.picUrl" width="300" class="product-img default">
@@ -2391,18 +2396,15 @@
                             <ion-icon name="repeat-outline"></ion-icon>
                         </button>
 
-                        <button class="btn-cart">
-
-                            <ion-icon name="bag-add-outline"></ion-icon>
-                        </button>
+                        
 
                     </div>
 
                 </div>
 
-                <div class="showcase-content">
+                <div class="showcase-content content-parent " >
 
-                    <a href="#" class="showcase-category">@item.Name</a>
+                    <a href="#" class="showcase-category category-child">@item.Name</a>
 
                     <a href="#">
                         <h3 class="showcase-title">@item.description</h3>
@@ -2417,7 +2419,7 @@
                     </div>
 
                     <div class="price-box">
-                        <p class="price">$@item.Price</p>
+                        <p class="price price-child">@item.Price</p>
                         <del>$75.00</del>
                     </div>
 
