@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "xIBg3uUloXt/+hviypQFOkfDzezlv5I6+W7vxLLKnGCFtPOfgC0F5Zl252ymhoqDnuKUA86iltyE8SJpcSW3hA==",
-=======
-  "dgSpecHash": "kvS8pEvjRkB7NyP1wSXFbrcqGVBT7Q1D88agrz2nRg4snrSnKahRW6fbfJFTu7Dgt7+kpbFF5GzdCBPFnd3J+Q==",
->>>>>>> 5855ffe9964460360d0781dac5df1848e8470cef
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Documents\\Enoque Tembe\\Code Things\\git\\DevShop-1\\DevShop\\DevShop.csproj",
   "expectedPackageFiles": [
@@ -193,5 +189,12 @@
     "C:\\Users\\USER\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\twilio\\5.81.2\\twilio.5.81.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\USER\\Documents\\Enoque Tembe\\Code Things\\git\\DevShop-1\\DevShop\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

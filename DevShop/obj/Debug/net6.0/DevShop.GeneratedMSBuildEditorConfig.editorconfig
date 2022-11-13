@@ -5,7 +5,6 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DevShop
 build_property.RootNamespace = DevShop
@@ -20,15 +19,7 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/USER/Documents/Enoque Tembe/Code Things/git/DevShop-1/DevShop/Views/Home/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/USER/Documents/Enoque Tembe/Code Things/git/DevShop-1/DevShop/Views/Shared/Error.cshtml]
-=======
-[C:/Users/adila/OneDrive/Ambiente de Trabalho/DevShop/DevShop/DevShop/Views/Shared/Error.cshtml]
->>>>>>> 5855ffe9964460360d0781dac5df1848e8470cef
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
