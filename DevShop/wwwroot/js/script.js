@@ -59,8 +59,9 @@ function addEvents() {
 
     // Buy order
     const buy_btn = document.querySelector(".btn-buy");
-    buy_btn.addEventListener("click", hanldle_buyOrder);
+    buy_btn.addEventListener("click", () => { buy_btn.style.display = "none"; initPayPalButton()});
 }
+
 
 // ============ handle events function ================= 
 let itemsAdded = []
@@ -259,24 +260,57 @@ for (let i = 0; i < accordionBtn.length; i++) {
 }
 
 
+function initPayPalButton() {
 
+    let cartBoxes = document.querySelectorAll(".cart-box");
+    const totalElement = cart.querySelector(".total-price");
+    let total = 0;
+    cartBoxes.forEach((cartBox) => {
+        let priceElement = cartBox.querySelector(".cart-price");
+        let price = parseFloat(priceElement.innerHTML.replace("$", ""));
+        let quantity = cartBox.querySelector(".cart-quantity").value;
+        total += price * quantity;
+    });
 
-const openModal = document.querySelector('.btn-openModal');
-const closeModal = document.querySelector('.btn-coloseModal');
-const loginModal = document.querySelector('.login-modal');
-const fade = document.querySelector('fade');
+    //para deixar 2 digitos dps do decimal
+    total = total.toFixed(2);
 
+    paypal.Buttons({
+        style: {
+            shape: 'rect',
+            color: 'gold',
+            layout: 'vertical',
+            label: 'paypal',
 
-const toggleModal = () => {
-    loginModal.classList.toggle('hide');
+        },
+
+        createOrder: function (data, actions) {
+            return actions.order.create({
+                purchase_units: [{ "amount": { "currency_code": "USD", "value": total } }]
+            });
+        },
+
+        onApprove: function (data, actions) {
+            return actions.order.capture().then(function (orderData) {
+
+                // Full available details
+                console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+                // Show a success message within this page, e.g.
+                const element = document.getElementById('paypal-button-container');
+                element.innerHTML = '';
+                element.innerHTML = '<h3>Thank you for your payment!</h3>';
+
+                // Or go to another URL:  actions.redirect('thank_you.html');
+
+            });
+        },
+
+        onError: function (err) {
+            console.log(err);
+        }
+    }).render('#paypal-button-container');
 }
-
-
-[openModal, closeModal].forEach((e) => {
-    e.addEventListener('click', () => toggleModal())
-})
-
-
 
 
 

@@ -171,15 +171,6 @@
 
             <div class="header-user-actions">
 
-               <!-- <button class="action-btn btn-openModal" asp-controller="Users" asp-action="Login" >
-                     
-                     <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Index">
-                          <ion-icon name="person-outline"></ion-icon>
-                      </a> 
-               
-                      <ion-icon name="person-outline"></ion-icon>
-                </button>
-                -->
                 <a asp-area="" asp-controller="Users" asp-action="Login" class="action-btn">
                     <ion-icon name="person-outline"></ion-icon>
                 </a>
@@ -479,7 +470,16 @@
                 <div class="total-price">0</div>
             </div>
             <!-- Buy Button -->
-            <button type="button" class="btn-buy">Buy Now</button>
+           
+        <button type="button" class="btn-buy">
+            Buy Now
+            
+        </button>
+           <div id="paypal-button-container"></div>
+
+            <script src="https://www.paypal.com/sdk/js?client-id=AZaBjnfZpVNvfv_LKSvVMH4dl3IOt4Ha7VPh_YzkQg7Bic6ttkjrw_Tg8HyGb2O8cWcP3E55J64iLUAX&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+         
+
             <!-- Cart Close  -->
             <button class="bx"> X </button>
 
