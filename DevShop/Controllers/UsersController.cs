@@ -17,7 +17,6 @@ namespace DevShop.Controllers
             _SMSService = sMSService;
             _userService = userService;
 
-
         }
 
 
@@ -36,7 +35,7 @@ namespace DevShop.Controllers
         {
             _userService.AddUser(user);
             _SMSService.sendSMS(user.Contact, user.Username);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction("Index", "Home");
             // View();
         }
 
